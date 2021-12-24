@@ -31,7 +31,8 @@ Para esse layout, escolhi usar a minha area front end e pude treinar cada vez ma
 
 <table align="center">
    <tr>
-    <td valign="top"><img src=""
+    <td valign="top"><img src="https://media.giphy.com/media/X7eoTXHfKNbwVoc9MD/giphy.gif"
+                   
 "
 "> </td>
     
