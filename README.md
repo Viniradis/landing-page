@@ -17,7 +17,7 @@
   
 ## 	:small_blue_diamond: **Sobre**
 
-Nesse projeto, resolvi codar de forma simples uma landing page de desenvolvedor Front end.  **Front end**.
+Nesse projeto, resolvi codar de forma simples uma landing page de desenvolvedor  **Front end**.
 
 Para esse layout, escolhi usar a minha area front end e pude treinar cada vez mais minhas habilidades com HTML, CSS e a responsividade do layout. 
 
@@ -33,8 +33,7 @@ Para esse layout, escolhi usar a minha area front end e pude treinar cada vez ma
    <tr>
     <td valign="top"><img src="https://media.giphy.com/media/X7eoTXHfKNbwVoc9MD/giphy.gif"
                    
-"
-"> </td>
+ </td>
     
    </tr>
  </table>
