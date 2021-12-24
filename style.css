@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;600;700&family=Open+Sans:wght@400;500;600&family=Roboto:wght@300;400;500&family=Ubuntu:wght@300;400;500&display=swap');
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    font-size: 100%;
+    background: rgb(255, 255, 255);
+}
+
+.cabecalho {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    padding: 24px;
+}
+
+.cabecalho-image {
+    height: 72px;
+}
+
+.cabecalho-menu {
+    display: flex;
+    gap: 32px;
+}
+
+.cabecalho-menu-item {
+    font-family: 'Nunito Sans', sans-serif;
+    color: black;
+    font-weight: 400;
+    font-size: 28px;
+}
+
+.conteudo {
+    margin-bottom: 48px;
+}
+
+.conteudo-principal {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.conteudo-principal-escrito {
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+}
+
+.conteudo-principal-escrito-titulo {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 700;
+    font-size: 120px;
+    color: black;
+}
+
+.conteudo-principal-escrito-subtitulo {
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 80px;
+    color: rgb(78, 75, 75);
+}
+
+.conteudo-principal-escrito-botao {
+    background-color: blanchedalmond;
+    width: 180px;
+    height: 80px;
+    border: none;
+    box-shadow: 4px 5px 4px rgba(0,0,0,0.25);
+    border-radius: 20px;
+    font-family: 'Nunito Sans', sans-serif;
+    font-weight: 400;
+    font-size: 24px;
+    color: black;
+}
+
+.conteudo-principal-escrito-botao:hover {
+    background-color: rgb(120, 247, 204);
+    cursor: pointer;
+
+}
+
+.conteudo-principal-imagem {
+    height: 700px;
+}
+
+.active:hover {
+    background-color: rgb(120, 247, 204);
+    padding: 4px;
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.active-static {
+    background-color: rgb(120, 247, 204);
+    padding: 3px;
+    border-radius: 10px;
+}
+
+
+
