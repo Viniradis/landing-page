@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://i.redd.it/wmf4pf98d4l61.png" alt="logo-netflix" width="300"> </p>
+<p align="center"> <img src="https://jobs.sync.money/wp-content/uploads/2020/05/sync.-Jobs-Frontend-Developer.jpg" alt="logo-front" width="300"> </p>
 
 
 
