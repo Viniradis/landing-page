@@ -1,4 +1,4 @@
-<p align="center"> <img src="https://jobs.sync.money/wp-content/uploads/2020/05/sync.-Jobs-Frontend-Developer.jpg" alt="logo-front" width="300"> </p>
+<p align="center"> <img src="https://jobs.sync.money/wp-content/uploads/2020/05/sync.-Jobs-Frontend-Developer.jpg" alt="logo-front" width="600"> </p>
 
 
 
